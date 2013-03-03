@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Cavan Klinsky</title>
+ <link href="http://zachholman.com/atom.xml" rel="self"/>
+ <link href="http://zachholman.com/"/>
+ <updated>2013-03-03T00:31:15-05:00</updated>
+ <id>http://zachholman.com</id>
+ <author>
+   <name>Cavan Klinsky</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Left</title>
+   <link href="http://zachholman.com/posts/left"/>
+   <updated>2012-12-12T00:00:00-05:00</updated>
+   <id>http://zachholman.com/posts/left</id>
+   <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
+extracted from &lt;a href=&quot;http://zachholman.com&quot;&gt;zachholman.com&lt;/a&gt;, which means it was battle-hardened from
+years of posting serious blog posts about emoji and swear words.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re actually reading an example post right now. See how cool it is? Oh, be
+quiet, you&amp;rsquo;re making me blush.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You&amp;rsquo;ll want to &lt;a href=&quot;https://github.com/holman/left#readme&quot;&gt;get the code&lt;/a&gt; and read the README to learn how to
+install and set up Left for your own purposes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;rsquo;m
+&lt;a href=&quot;https://twitter.com/holman&quot;&gt;@holman&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What I Use</title>
+   <link href="http://zachholman.com/posts/What-I-Use"/>
+   <updated>2012-01-23T00:00:00-05:00</updated>
+   <id>http://zachholman.com/posts/What-I-Use</id>
+   <content type="html">&lt;p&gt;In this Inaugural Post I&amp;rsquo;ll take briefly about what I use on a daily basis.&lt;/p&gt;
+
+&lt;h3&gt;Gadgets&lt;/h3&gt;
+
+&lt;h3&gt;Mid 2012 13 Inch MacBook Pro (Non Retina)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://images.pcworld.com/reviews/graphics/products/uploaded/apple_13inch_macbook_pro29ghz_core_i5_mid_2012_1220659_g1.jpg&quot; height=&quot;400&quot; width=&quot;400&quot;&gt;
+This is my true workhorse and everything I do ends up on this at some point.
+ Before I bought it I was torn between this model and the 13 Inch Macbook Air and
+ while I am sure I would say the exact opposite if I had gone with the Air I feel
+ like I made the right decision. I think it represents a nice compromise between portability, computing power,
+ and price. I carry it around every day and I have no complaints about it&amp;rsquo;s weight. Albeit from a few scuffs and a little dirt it has held up well to pretty rough daily treatment. If only chargers faired as well.
+  I do miss having a 24 inch screen but less than I thought I would due to a makeshift solution (more on that in a moment).&lt;/p&gt;
+
+&lt;h3&gt;IPhone 3GS&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://images.pcworld.com/reviews/graphics/products/uploaded/116744_g2.jpg&quot; height=&quot;300&quot; width=&quot;300&quot;&gt;
+Since I got this in 2009 I&amp;rsquo;ve slowly watched it go from top of the line to barely supported
+ while giving me no problems all the while. My apps still run and my music still plays so I have still have
+ not seen any compelling reason to upgrade. I&amp;rsquo;m still running 5.0.1 as my 3GS doesn&amp;rsquo;t get many of the new features of 6.0 and Siri.
+ I think I would have upgraded already if not for wonderful jailbreak apps like SBSettings that I don&amp;rsquo;t feel like going through the process of reinstalling again.&lt;/p&gt;
+
+&lt;h3&gt;Early 2009 24 Inch iMac&lt;/h3&gt;
+
+&lt;p&gt; &lt;img src=&quot;http://cache.gawkerassets.com/assets/images/gizmodo/2009/03/newimac.jpg&quot; height=&quot;400&quot; width=&quot;400&quot;&gt;
+My main computer for 3 years, it now sits on my desk serving niche purposes. It&amp;rsquo;s main use now is as a hacked together second monitor for my MBP. I have yet to find a working, practical
+solution to use it as a true second monitor so I&amp;rsquo;ve just been using teleport(like synergy) and
+Soundflow to almost make it one. I normally use it to show Movies, Chat, or pdfs, documents and
+websites that I need to constantly reference. Since its on 10.6 it&amp;rsquo;s used for any Powerpc
+app or non-updated intel app. I also use it to run .bat files. For these things it works pretty well.&lt;/p&gt;
+
+&lt;h3&gt;iPad 2 3G&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn1.sbnation.com/products/large/126/1300358445apple_ipad2_black_01.jpg?1312559901&quot;  height=&quot;400&quot; width=&quot;400&quot;&gt;
+I bought this in 2011 to use as my portable community and it served its job ok before being replaced by my MBP.
+For anything non-intensive like web-browsing, email, reddit, or reading, the iPad performs beautifully.
+The cracks begin to show when you try to do anything more.
+Even with a bluetooth keyboard, writing anything longer than an email is slow and unfun.
+It gets even worse when I try to do actual work on it. Despite trying almost every native solution
+(I never tried ssh) the iPad never came close to being as good as a real computer for coding, image editing,
+or anything else. If I can&amp;rsquo;t install ruby or git on a computer then I can&amp;rsquo;t use it as real computer.
+The iPad is currently being used as a dedicated ebook reader and other light browsing and for this it performs admirably.&lt;/p&gt;
+
+&lt;h3&gt;Software&lt;/h3&gt;
+
+&lt;h3&gt;BBEdit&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn-static.zdnet.com/i/story/60/19/010594/bbedit-10-screenshot-ogrady.png&quot; height=&quot;400&quot; width=&quot;400&quot;&gt;
+One of the oldest text editors for mac, I haven&amp;rsquo;t been using this for that long. I switched to this from TextMate a few years ago because of it&amp;rsquo;s overflowing features.
+For something that was supposed to be barebones it really has everything. The two main reasons I switched I because I liked the layout and it&amp;rsquo;s ftp support more than TextMate.
+I&amp;rsquo;ve recently been thinking about trying out Sublime Text 2 but I don&amp;rsquo;t feel like leaving this old friend.&lt;/p&gt;
+
+&lt;h3&gt;Terminal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://peppoj.net/wp-content/uploads/2010/07/512-Terminal.png&quot; height=&quot;300&quot; width=&quot;300&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Not much to say here, just the vanilla Mac OSX Terminal.No complaints, always works as expected.&lt;/p&gt;
+
+&lt;h3&gt;Google Chrome&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.blogcdn.com/www.engadget.com/media/2011/04/chrome-logo-2011-04-27.jpg&quot;  height=&quot;300&quot; width=&quot;300&quot;&gt;
+Once again pretty standard stuff. I&amp;rsquo;ve found this to be (at least for me) the fastest full-featured browser.
+ I&amp;rsquo;ve found the sync feature to be invaluable along with plugins like Adblock and LastPass.&lt;/p&gt;
+
+&lt;h3&gt;Sparrow&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://img.gawkerassets.com/img/17tf13akoui94png/original.png&quot;  height=&quot;400&quot; width=&quot;400&quot;&gt;
+Although it&amp;rsquo;s been bought by google and discontinued I still use this as my desktop email client.
+ It does everything I could ask for and it does it well. If I had to choose one feature it would be its top-notch
+ multi-email account integration.&lt;/p&gt;
+
+&lt;h3&gt;Dropbox&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://twimg0-a.akamaihd.net/profile_images/480262550/box.png&quot; height=&quot;300&quot; width=&quot;300&quot;&gt;
+While this is another standard, I can&amp;rsquo;t even count the number of times it&amp;rsquo;s backups have saved me from forgetting
+to print or transfer something. It also makes a wonderful way to share files.
+ My only modification is that I&amp;rsquo;ve set up symlinks to allow me to back up other directories not in the dropbox folder.&lt;/p&gt;
+
+&lt;h3&gt;Google Docs&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://edudemic.com/wp-content/uploads/2010/06/GoogleDocs.jpg&quot; height=&quot;300&quot; width=&quot;300&quot;&gt;
+I have the entire Microsoft Office Suite on my computer but I find myself almost never using it due to this
+wonderful Office replacement. It fulfills all my needs while doing it in its own lightweight, cloud backuped way.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
