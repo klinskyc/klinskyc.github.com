@@ -5,9 +5,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
+name: Cavan Klinsky
 url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+description: I make stuff
+twitter: klinskyc
+github: klinskyc
+gravatar_url: /images/cjk_twitter.png
