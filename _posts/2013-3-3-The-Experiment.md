@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Economy
+category : Reading
 tags : [Reading, Gamifacation, Experiment]
 ---
 
