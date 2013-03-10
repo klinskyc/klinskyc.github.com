@@ -11,7 +11,7 @@ The first thing that caught my eye wasn't any of the content but some words in t
 <img src="/images/AOLTime.png" alt="AOL Keyword: Time"> 
 
 I couldn't believe that a magazine as large as Time would ever put their AOL Keyword on the front page. 
-From Jan 31, 2000 to August 14, 2006 Time had it on every issue. This just goes to show how much visibility AOL had
-and then lost on the earlier internet. 
+From Jan 31, 2000 to August 14, 2006 Time had it on every issue. This just goes to show how much power and visibility AOL had
+and then lost on the internet. 
 
 Can You Imagine Time having a Facebook or Twitter link there?
