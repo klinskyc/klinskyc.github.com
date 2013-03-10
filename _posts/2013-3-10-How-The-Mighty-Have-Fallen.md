@@ -14,4 +14,4 @@ I couldn't believe that a magazine as large as Time would ever put their AOL Key
 From Jan 31, 2000 to August 14, 2006 Time had it on every issue. This just goes to show how much visibility AOL had
 and then lost on the earlier internet. 
 
-Can You Imagine Time having a facebook or twitter link there?
+Can You Imagine Time having a Facebook or Twitter link there?
