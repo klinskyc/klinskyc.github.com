@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Technology
+category : Internet
 tags : [Time, AOL,Change, AOL Keyword]
 ---
 I recently happened to see this Time Magazine cover.

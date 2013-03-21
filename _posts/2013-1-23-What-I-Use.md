@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Mac
+category : Technology
 tags : [Mac, Apps, What I Use]
 ---
 In this Inaugural Post I'll take briefly about what I use on a daily basis.

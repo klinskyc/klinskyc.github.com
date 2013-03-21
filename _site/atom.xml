@@ -4,7 +4,7 @@
  <title>Cavan Klinsky</title>
  <link href="http://zachholman.com/atom.xml" rel="self"/>
  <link href="http://zachholman.com/"/>
- <updated>2013-03-10T16:29:39-04:00</updated>
+ <updated>2013-03-21T16:56:37-06:00</updated>
  <id>http://zachholman.com</id>
  <author>
    <name>Cavan Klinsky</name>
@@ -12,9 +12,32 @@
  
  
  <entry>
+   <title>An Interesting Attempt At Getting User Signups</title>
+   <link href="http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups"/>
+   <updated>2013-03-21T00:00:00-06:00</updated>
+   <id>http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups</id>
+   <content type="html">&lt;p&gt;I think almost anyone on the internet has seen this message&lt;/p&gt;
+
+&lt;p&gt; &amp;ldquo;Log In With Facebook (Twitter, G+) To View&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And I do not think I&amp;rsquo;m alone in that I leave the page as soon as I see one of them.
+Normally these messages all come in the same form but today I saw something clever.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Facebook_Signup.png&quot; alt=&quot;Are You Over 13?&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of just presenting it in the normal we-just-want-your-information way, this site is able
+to offer a (shaky) justification while still forcing user signups. The whole idea behind it is a farce
+(the opacity is so low that you can see the image anyways) but it stil is an interesting way to
+increase user signups.&lt;/p&gt;
+
+&lt;p&gt;You can view the live example &lt;a href =&quot;http://www.lulztruck.org/actually-a-good-point&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>How The Mighty Have Fallen</title>
    <link href="http://zachholman.com/posts/How-The-Mighty-Have-Fallen"/>
-   <updated>2013-03-10T00:00:00-05:00</updated>
+   <updated>2013-03-10T00:00:00-06:00</updated>
    <id>http://zachholman.com/posts/How-The-Mighty-Have-Fallen</id>
    <content type="html">&lt;p&gt;I recently happened to see this Time Magazine cover.
 &lt;img src=&quot;http://img.timeinc.net/time/magazine/archive/covers/2002/1101020415_400.jpg&quot; alt=&quot;Time Magazine Cover&quot;/&gt;&lt;/p&gt;
@@ -34,7 +57,7 @@ and then lost on the internet.&lt;/p&gt;
  <entry>
    <title>The Experiment</title>
    <link href="http://zachholman.com/posts/The-Experiment"/>
-   <updated>2013-03-03T00:00:00-05:00</updated>
+   <updated>2013-03-03T00:00:00-06:00</updated>
    <id>http://zachholman.com/posts/The-Experiment</id>
    <content type="html">&lt;h3&gt;The Problem&lt;/h3&gt;
 
@@ -64,7 +87,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>Apple's Future</title>
    <link href="http://zachholman.com/posts/Apple%27s-Future"/>
-   <updated>2013-01-30T00:00:00-05:00</updated>
+   <updated>2013-01-30T00:00:00-06:00</updated>
    <id>http://zachholman.com/posts/Apple's-Future</id>
    <content type="html">&lt;h3&gt;A Non-Expert&amp;rsquo;s Opinion on Apple&amp;rsquo;s Future&lt;/h3&gt;
 
@@ -83,7 +106,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>What I Use</title>
    <link href="http://zachholman.com/posts/What-I-Use"/>
-   <updated>2013-01-23T00:00:00-05:00</updated>
+   <updated>2013-01-23T00:00:00-06:00</updated>
    <id>http://zachholman.com/posts/What-I-Use</id>
    <content type="html">&lt;p&gt;In this Inaugural Post I&amp;rsquo;ll take briefly about what I use on a daily basis.&lt;/p&gt;
 
