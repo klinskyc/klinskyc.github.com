@@ -4,7 +4,7 @@
  <title>Cavan Klinsky</title>
  <link href="http://zachholman.com/atom.xml" rel="self"/>
  <link href="http://zachholman.com/"/>
- <updated>2013-03-21T16:56:37-06:00</updated>
+ <updated>2013-05-07T22:19:46-04:00</updated>
  <id>http://zachholman.com</id>
  <author>
    <name>Cavan Klinsky</name>
@@ -14,7 +14,7 @@
  <entry>
    <title>An Interesting Attempt At Getting User Signups</title>
    <link href="http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups"/>
-   <updated>2013-03-21T00:00:00-06:00</updated>
+   <updated>2013-03-21T00:00:00-04:00</updated>
    <id>http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups</id>
    <content type="html">&lt;p&gt;I think almost anyone on the internet has seen this message&lt;/p&gt;
 
@@ -37,7 +37,7 @@ increase user signups.&lt;/p&gt;
  <entry>
    <title>How The Mighty Have Fallen</title>
    <link href="http://zachholman.com/posts/How-The-Mighty-Have-Fallen"/>
-   <updated>2013-03-10T00:00:00-06:00</updated>
+   <updated>2013-03-10T00:00:00-05:00</updated>
    <id>http://zachholman.com/posts/How-The-Mighty-Have-Fallen</id>
    <content type="html">&lt;p&gt;I recently happened to see this Time Magazine cover.
 &lt;img src=&quot;http://img.timeinc.net/time/magazine/archive/covers/2002/1101020415_400.jpg&quot; alt=&quot;Time Magazine Cover&quot;/&gt;&lt;/p&gt;
@@ -57,7 +57,7 @@ and then lost on the internet.&lt;/p&gt;
  <entry>
    <title>The Experiment</title>
    <link href="http://zachholman.com/posts/The-Experiment"/>
-   <updated>2013-03-03T00:00:00-06:00</updated>
+   <updated>2013-03-03T00:00:00-05:00</updated>
    <id>http://zachholman.com/posts/The-Experiment</id>
    <content type="html">&lt;h3&gt;The Problem&lt;/h3&gt;
 
@@ -87,7 +87,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>Apple's Future</title>
    <link href="http://zachholman.com/posts/Apple%27s-Future"/>
-   <updated>2013-01-30T00:00:00-06:00</updated>
+   <updated>2013-01-30T00:00:00-05:00</updated>
    <id>http://zachholman.com/posts/Apple's-Future</id>
    <content type="html">&lt;h3&gt;A Non-Expert&amp;rsquo;s Opinion on Apple&amp;rsquo;s Future&lt;/h3&gt;
 
@@ -106,7 +106,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>What I Use</title>
    <link href="http://zachholman.com/posts/What-I-Use"/>
-   <updated>2013-01-23T00:00:00-06:00</updated>
+   <updated>2013-01-23T00:00:00-05:00</updated>
    <id>http://zachholman.com/posts/What-I-Use</id>
    <content type="html">&lt;p&gt;In this Inaugural Post I&amp;rsquo;ll take briefly about what I use on a daily basis.&lt;/p&gt;
 
