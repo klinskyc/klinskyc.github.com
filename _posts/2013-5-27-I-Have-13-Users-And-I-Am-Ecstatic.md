@@ -13,7 +13,7 @@ chrome extension that made a rss feed out of any twitter-page. I paid the five d
 to bed, happy that I had finally finished something, albeit tiny. After one week, I checked the stats and saw 
 something that astounded me, the weekly users were up to 13. I was surprised, why would anyone want to install an
 extension that had so little use? Honestly, I still have no idea. All I know is that I got more users for 30 minutes
-of work than I did over two months and I'm ecstatic about it. 
+of work than I did over two months and I'm happy about it. 
 
 On another note the Chrome Web Store is a Mecca for lean-startupers
 (is that a word?). It allows for fast iterations and feedback in an app-store environment that already has a 
