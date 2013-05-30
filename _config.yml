@@ -14,4 +14,4 @@ gravatar_url: /images/cjk_twitter.png
 analytics :
   provider : google 
   google : 
-      tracking_id : 'UA-26045128-7'
+      tracking_id : ' UA-26045128-7'
