@@ -1,5 +1,4 @@
 // Your JavaScript
-<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-26045128-7']);
@@ -12,4 +11,3 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
