@@ -2,20 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Cavan Klinsky</title>
- <link href="http://zachholman.com/atom.xml" rel="self"/>
- <link href="http://zachholman.com/"/>
- <updated>2013-06-02T10:54:07-04:00</updated>
- <id>http://zachholman.com</id>
+ <link href="http://klinskyc.github.io/atom.xml" rel="self"/>
+ <link href="http://klinskyc.github.io/"/>
+ <updated>2013-09-15T21:34:31-04:00</updated>
+ <id>http://klinskyc.github.io</id>
  <author>
    <name>Cavan Klinsky</name>
  </author>
  
  
  <entry>
+   <title>Fantasy Football Week 1</title>
+   <link href="http://klinskyc.github.io/posts/Fantasy-Football-Week-1"/>
+   <updated>2013-09-10T00:00:00-04:00</updated>
+   <id>http://klinskyc.github.io/posts/Fantasy-Football-Week-1</id>
+   <content type="html">&lt;p&gt;This is a little different then my normal stuff but I enjoy fantasy football (and football in general) and I
+think it&amp;rsquo;s worth posting, if just for my own sake.&lt;/p&gt;
+
+&lt;p&gt;This year I joined &lt;a href=&quot;http://reddit.com/r/narffl&quot;&gt; NARFFL &lt;/a&gt; reddit&amp;rsquo;s fantasy football league, I then promptly
+missed the draft.&lt;/p&gt;
+
+&lt;p&gt;When I remember the next day and logged in, the autodraft had picked me this (This is my current line-up,
+substitue Tampa Bay with Knile Davis and Julian Edelman with Ronnie Hillman). This league awards 1 point per
+reception.
+&lt;img src=&quot;/images/fflineup-week2.png&quot; alt=&quot;My Fantasy Football Team&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For an auto-draft this wasn&amp;rsquo;t the worst thing ever&lt;/p&gt;
+
+&lt;p&gt;Pros&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An amazing QB in Peyton Manning&lt;/li&gt;
+&lt;li&gt;1 decent rb in Ray Rice&lt;/li&gt;
+&lt;li&gt;Good WR and TE depth (too many TEs)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Cons&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monte Ball isn&amp;rsquo;t an RB2 or an RB anything, this is a serious problem&lt;/li&gt;
+&lt;li&gt;I have way too many TEs and not enough RBs&lt;/li&gt;
+&lt;li&gt;I have one ok running back (notice a pattern)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Before the Game&lt;/h3&gt;
+
+&lt;p&gt;Trying to be smart I dropped the RB Knile Davis and picked up the Tampa Bay defense because they were playing the Jets. ( the
+Jets are my favorite team but it was worth taking the opportunityt&lt;/p&gt;
+
+&lt;h3&gt;The First Game&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Week1_Matchup.png&quot; alt=&quot;Week 1 Matchup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week went pretty well, Peyton Manning had a record setting game and Ray Rice and my WRs, TE and Kicked
+ had solid performances. My favorite part was that Tampa Bay managed to lose to the Jets and they still put up
+ more points than the Bronco&amp;rsquo;s D.&lt;/p&gt;
+
+&lt;p&gt; The only bad thing (and it&amp;rsquo;s a large bad thing) is that Monte Ball put up 2.4 points as it became evident
+ that Denver really is making the game a running back by committee.&lt;/p&gt;
+
+&lt;h3&gt;For Next Week&lt;/h3&gt;
+
+&lt;p&gt; I need to fix my RB situation, I can probably pawn off Brandon Myers, the NYG Tight End.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I Have 13 Users And I Am Ecstatic</title>
-   <link href="http://zachholman.com/posts/I-Have-13-Users-And-I-Am-Ecstatic"/>
+   <link href="http://klinskyc.github.io/posts/I-Have-13-Users-And-I-Am-Ecstatic"/>
    <updated>2013-05-27T00:00:00-04:00</updated>
-   <id>http://zachholman.com/posts/I-Have-13-Users-And-I-Am-Ecstatic</id>
+   <id>http://klinskyc.github.io/posts/I-Have-13-Users-And-I-Am-Ecstatic</id>
    <content type="html">&lt;p&gt;After spending the last few months working on and off on a large project (more on that over the summer), I was
 feeling burnt out from constantly getting stuck on large-scale bugs. In response to this, I decided to make
 something incredibly simple in an area that I had never worked in before. After spending a few minutes googling
@@ -39,9 +97,9 @@ ome.google.com/webstore/detail/twitter2rss/obnmifkmfdnijcnmhacachchiikikchb&quot
  
  <entry>
    <title>An Interesting Attempt At Getting User Signups</title>
-   <link href="http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups"/>
+   <link href="http://klinskyc.github.io/posts/An-Interesting-Attempt-At-Getting-User-Signups"/>
    <updated>2013-03-21T00:00:00-04:00</updated>
-   <id>http://zachholman.com/posts/An-Interesting-Attempt-At-Getting-User-Signups</id>
+   <id>http://klinskyc.github.io/posts/An-Interesting-Attempt-At-Getting-User-Signups</id>
    <content type="html">&lt;p&gt;I think almost anyone on the internet has seen this message&lt;/p&gt;
 
 &lt;p&gt; &amp;ldquo;Log In With Facebook (Twitter, G+) To View&amp;rdquo;&lt;/p&gt;
@@ -62,9 +120,9 @@ increase user signups.&lt;/p&gt;
  
  <entry>
    <title>How The Mighty Have Fallen</title>
-   <link href="http://zachholman.com/posts/How-The-Mighty-Have-Fallen"/>
+   <link href="http://klinskyc.github.io/posts/How-The-Mighty-Have-Fallen"/>
    <updated>2013-03-10T00:00:00-05:00</updated>
-   <id>http://zachholman.com/posts/How-The-Mighty-Have-Fallen</id>
+   <id>http://klinskyc.github.io/posts/How-The-Mighty-Have-Fallen</id>
    <content type="html">&lt;p&gt;I recently happened to see this Time Magazine cover.
 &lt;img src=&quot;http://img.timeinc.net/time/magazine/archive/covers/2002/1101020415_400.jpg&quot; alt=&quot;Time Magazine Cover&quot;/&gt;&lt;/p&gt;
 
@@ -82,9 +140,9 @@ and then lost on the internet.&lt;/p&gt;
  
  <entry>
    <title>The Experiment</title>
-   <link href="http://zachholman.com/posts/The-Experiment"/>
+   <link href="http://klinskyc.github.io/posts/The-Experiment"/>
    <updated>2013-03-03T00:00:00-05:00</updated>
-   <id>http://zachholman.com/posts/The-Experiment</id>
+   <id>http://klinskyc.github.io/posts/The-Experiment</id>
    <content type="html">&lt;h3&gt;The Problem&lt;/h3&gt;
 
 &lt;p&gt;In recent years I&amp;rsquo;ve been reading more and more news online and fewer and fewer books. Instead of sitting down
@@ -112,9 +170,9 @@ past two months than I had read in the past year. Is this method revolutionary? 
  
  <entry>
    <title>Apple's Future</title>
-   <link href="http://zachholman.com/posts/Apple%27s-Future"/>
+   <link href="http://klinskyc.github.io/posts/Apple%27s-Future"/>
    <updated>2013-01-30T00:00:00-05:00</updated>
-   <id>http://zachholman.com/posts/Apple's-Future</id>
+   <id>http://klinskyc.github.io/posts/Apple's-Future</id>
    <content type="html">&lt;h3&gt;A Non-Expert&amp;rsquo;s Opinion on Apple&amp;rsquo;s Future&lt;/h3&gt;
 
 &lt;p&gt;The dust of Job’s death is settled and the scoreboard speaks for itself. During Steve Job’s two-part twenty-four year tenure with Apple the world was changed.  Job’s innovations are innumerable, from the Apple I to the IPad, Jobs has created computer revolutions and has moved forward the world in which we live in. Apple without Jobs shows a stark contrast, without Jobs Apple has a history of creating forgotten misguided products like the Macintosh Performa or the Apple Newton.&lt;/p&gt;
@@ -131,9 +189,9 @@ past two months than I had read in the past year. Is this method revolutionary? 
  
  <entry>
    <title>What I Use</title>
-   <link href="http://zachholman.com/posts/What-I-Use"/>
+   <link href="http://klinskyc.github.io/posts/What-I-Use"/>
    <updated>2013-01-23T00:00:00-05:00</updated>
-   <id>http://zachholman.com/posts/What-I-Use</id>
+   <id>http://klinskyc.github.io/posts/What-I-Use</id>
    <content type="html">&lt;p&gt;In this Inaugural Post I&amp;rsquo;ll take briefly about what I use on a daily basis.&lt;/p&gt;
 
 &lt;h3&gt;Gadgets&lt;/h3&gt;
