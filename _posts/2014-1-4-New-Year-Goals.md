@@ -23,7 +23,7 @@ have sub-goals that I need to meet if I want to fulfill the main goal.
  I'm not starting from 0 with this but I need to get my numbers up from 3-4 to 15. I think this will best be
  accomplished by doing <a href="http://manlypat.wordpress.com/2009/02/24/armstrong-pull-up-program/">this</a>. 
  * ##### Be able to run a 10K/ Run a sub 24 minute 5k
- I really hate running, I find incredibly boring and I can't ever stick to a running program (unlike a lifting program).
+ I really hate running, I find it incredibly boring and I can't ever stick to a running program (unlike a lifting program).
  However, I would like to be good at running and this is accomplished by running. On a good day, I can run a 5k but
  that's about it. I plan on using C25K and B210K.
  * ##### Increase lifting numbers
