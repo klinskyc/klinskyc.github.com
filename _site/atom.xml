@@ -4,7 +4,7 @@
  <title>Cavan Klinsky</title>
  <link href="http://klinskyc.github.io/atom.xml" rel="self"/>
  <link href="http://klinskyc.github.io/"/>
- <updated>2014-03-18T22:31:30-06:00</updated>
+ <updated>2014-05-06T21:31:48-04:00</updated>
  <id>http://klinskyc.github.io</id>
  <author>
    <name>Cavan Klinsky</name>
@@ -12,9 +12,207 @@
  
  
  <entry>
+   <title>New Year Goals 4 Month Update</title>
+   <link href="http://klinskyc.github.io/posts/New-Year-Goals-4-Month-Update"/>
+   <updated>2014-05-04T00:00:00-04:00</updated>
+   <id>http://klinskyc.github.io/posts/New-Year-Goals-4-Month-Update</id>
+   <content type="html">&lt;p&gt;I can&amp;rsquo;t believe its already May, this is a 4 month update.
+Overall, things have been going really well. Here&amp;rsquo;s a breakdown&lt;/p&gt;
+
+&lt;h3&gt;1. Get Into a Great College&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h5&gt;Get Straight A&amp;rsquo;s (A Range)&lt;/h5&gt;
+
+&lt;p&gt;Third Trimester is almost over. My grades right now fulfill this goal but I need to finish out the year strong.
+I&amp;rsquo;m taking AP Computer Science on Tueday. Should go really well, but I need to watch out for gotchas. Additionally, finals are coming up during late May. I only have two, but they&amp;rsquo;re two{
+  // The tab key will cycle through the settings when first created
+  // Visit http://wbond.net/sublime_packages/sftp/settings for help&lt;/p&gt;
+
+&lt;p&gt;  // sftp, ftp or ftps
+  &amp;ldquo;type&amp;rdquo;: &amp;ldquo;sftp&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;  &amp;ldquo;sync_down_on_open&amp;rdquo;: true,
+  &amp;ldquo;sync_same_age&amp;rdquo;: true,&lt;/p&gt;
+
+&lt;p&gt;  &amp;ldquo;host&amp;rdquo;: &amp;ldquo;sargas.dreamhost.com&amp;rdquo;,
+  &amp;ldquo;user&amp;rdquo;: &amp;ldquo;klinskyc&amp;rdquo;,
+  &amp;ldquo;password&amp;rdquo;: &amp;ldquo;cavan1{&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  // The tab key will cycle through the settings when first created
+  // Visit http://wbond.net/sublime_packages/sftp/settings for help
+
+  // sftp, ftp or ftps
+  &quot;type&quot;: &quot;sftp&quot;,
+
+  &quot;sync_down_on_open&quot;: true,
+  &quot;sync_same_age&quot;: true,
+
+  &quot;host&quot;: &quot;example.com&quot;,
+  &quot;user&quot;: &quot;username&quot;,
+  //&quot;password&quot;: &quot;password&quot;,
+  //&quot;port&quot;: &quot;22&quot;,
+
+  &quot;remote_path&quot;: &quot;/example/path/&quot;,
+  //&quot;file_permissions&quot;: &quot;664&quot;,
+  //&quot;dir_permissions&quot;: &quot;775&quot;,
+
+  //&quot;extra_list_connections&quot;: 0,
+
+  &quot;connect_timeout&quot;: 30,
+  //&quot;keepalive&quot;: 120,
+  //&quot;ftp_passive_mode&quot;: true,
+  //&quot;ftp_obey_passive_host&quot;: false,
+  //&quot;ssh_key_file&quot;: &quot;~/.ssh/id_rsa&quot;,
+  //&quot;sftp_flags&quot;: [&quot;-F&quot;, &quot;/path/to/ssh_config&quot;],
+
+  //&quot;preserve_modification_times&quot;: false,
+  //&quot;remote_time_offset_in_hours&quot;: 0,
+  //&quot;remote_encoding&quot;: &quot;utf-8&quot;,
+  //&quot;remote_locale&quot;: &quot;C&quot;,
+  //&quot;allow_config_upload&quot;: false,
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;  }
+  &amp;ldquo;,
+  //&quot;port&amp;rdquo;: &amp;ldquo;22&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;  &amp;ldquo;remote_path&amp;rdquo;: &amp;ldquo;/example/path/&amp;rdquo;,
+  //&amp;ldquo;file_permissions&amp;rdquo;: &amp;ldquo;664&amp;rdquo;,
+  //&amp;ldquo;dir_permissions&amp;rdquo;: &amp;ldquo;775&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;  //&amp;ldquo;extra_list_connections&amp;rdquo;: 0,&lt;/p&gt;
+
+&lt;p&gt;  &amp;ldquo;connect_timeout&amp;rdquo;: 30,
+  //&amp;ldquo;keepalive&amp;rdquo;: 120,
+  //&amp;ldquo;ftp_passive_mode&amp;rdquo;: true,
+  //&amp;ldquo;ftp_obey_passive_host&amp;rdquo;: false,
+  //&amp;ldquo;ssh_key_file&amp;rdquo;: &amp;ldquo;~/.ssh/id_rsa&amp;rdquo;,
+  //&amp;ldquo;sftp_flags&amp;rdquo;: [&amp;ldquo;-F&amp;rdquo;, &amp;ldquo;/path/to/ssh_config&amp;rdquo;],&lt;/p&gt;
+
+&lt;p&gt;  //&amp;ldquo;preserve_modification_times&amp;rdquo;: false,
+  //&amp;ldquo;remote_time_offset_in_hours&amp;rdquo;: 0,
+  //&amp;ldquo;remote_encoding&amp;rdquo;: &amp;ldquo;utf-8&amp;rdquo;,
+  //&amp;ldquo;remote_locale&amp;rdquo;: &amp;ldquo;C&amp;rdquo;,
+  //&amp;ldquo;allow_config_upload&amp;rdquo;: false,
+}
+important ones.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;Get Outstanding SAT Scores (and only have to take them once)&lt;/h5&gt;
+
+&lt;p&gt;I&amp;rsquo;m officially done with the SAT 1. The March test went well and I&amp;rsquo;ve reached my composite score goal. I&amp;rsquo;m taking Math 2 (SAT 2) in June. It&amp;rsquo;s a pretty tough test but the curve partly makes up for it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;2. Get Really Fit&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h5&gt;Finish out the Wrestling season with a positive record&lt;/h5&gt;
+
+&lt;p&gt;This goal is now have a great record next season. In order to accomplish this, I&amp;rsquo;m lifting, running, and I&amp;rsquo;m going to go to wrestling camp.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;Be Able to do 15 Pullups&lt;/h5&gt;
+
+&lt;p&gt;No real direct progress, I&amp;rsquo;m not even sure how many I can do.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;Be able to run a 10K/ Run a sub 24 minute 5k&lt;/h5&gt;
+
+&lt;p&gt;I had a few weeks of consistent running and I was seeing progress. As things got more busy, running was one of the first activites to be cut. I&amp;rsquo;ll pick it back up in a few weeks.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;Increase lifting numbers&lt;/h5&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been really consistent and I&amp;rsquo;m seeing great results. I bench pressed my bodyweight last week, accomplishing a goal I&amp;rsquo;ve had for years. Overall, everythings going up (although bench is having some issues, as expected). The weights getting high enough that I&amp;rsquo;m starting to not squat and deadlift every single day.
+Current numbers (all in lbs) on big 3 are &lt;br&gt;
+BP &amp;ndash; 175 (x1)&lt;br&gt;
+DL &amp;ndash; 260(x5)&lt;br&gt;
+Squat &amp;ndash; 240(3x5)&lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;3. Have someone pay to use a SAAS I built&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gevva.com&quot;&gt;Gevva&lt;/a&gt; (new name for butlr) has been going great. We presented at NY Tech Day and got an amazing response. I&amp;rsquo;m going to continue to build Gevva with my co-founders and a few interns.&lt;/p&gt;
+
+&lt;h3&gt;4. Finish my reading list / Read 20 Books&lt;/h3&gt;
+
+&lt;p&gt;I should be doing more here. I read two books in one day during spring break but that&amp;rsquo;s been it for reading (aside from english class.) I need to choose a fun book to go get myself in the groove again.&lt;/p&gt;
+
+&lt;h3&gt;5. Start making music again&lt;/h3&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t really followed through with this. I may pick this up again during the summer.&lt;/p&gt;
+
+&lt;h3&gt;6. Play a lot of Chess&lt;/h3&gt;
+
+&lt;p&gt;I really want to play chess at passable level. I&amp;rsquo;m ok (for someone who doesen&amp;rsquo;t play) but I&amp;rsquo;d like to learn a few openings and get good at analyzing different situations. I&amp;rsquo;m playing on chess.com  and losing a lot. I think 1200 Elo is a good target.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been busy and productive these past two months, definitely no zero days. However, I can always increase my productivity and organization.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Crafting The Perfect Workout Playlist</title>
+   <link href="http://klinskyc.github.io/posts/Crafting-The-Perfect-Workout-Playlist"/>
+   <updated>2014-04-29T00:00:00-04:00</updated>
+   <id>http://klinskyc.github.io/posts/Crafting-The-Perfect-Workout-Playlist</id>
+   <content type="html">&lt;p&gt;One of my favorite parts of lifting is that I get to listen to music while I do it. I don&amp;rsquo;t have a lot of
+opportunites to listen to music for 90 minutes, uniterrupted, with a completely clear head. Additionaly, listening to the
+right music is scientifically proven to increase athletic performance. &lt;a href=&quot;http://www.scientificamerican.com/article/psychology-workout-music&quot;&gt;This article&lt;/a&gt; goes into greater detail and gives a rough idea of what music works best. The article essentially says that music needs to have the right tempo and evoke certain memories, emotions, and assosciations.&lt;/p&gt;
+
+&lt;p&gt;The following guide uses both scientific recommendations and my personal experiences to give guidelines on how to craft the perfect workout playlist. My specific song recommendations are mostly rap, but theres no reason that this can&amp;rsquo;t be applied to any genre of music.&lt;/p&gt;
+
+&lt;h1&gt;Part 1: The Warmup&lt;/h1&gt;
+
+&lt;p&gt;The warmup generally takes me from when I arrive at the gym to when I start my working sets. If I have a short commute, less than 10 minutes, I&amp;rsquo;ll also incorporate that time into the playlist.&lt;/p&gt;
+
+&lt;h3&gt;1. The First Song&lt;/h3&gt;
+
+&lt;p&gt;The first song is important to set the tone of the rest of the workout. It&amp;rsquo;s generally upbeat and slower then the majority of the playlist. It&amp;rsquo;s a song that puts a smile on your face and gets you ready for the rest of your workout. I normally listen to this while warming up on an eliptical or biking to the gym.&lt;/p&gt;
+
+&lt;p&gt;I currently use Chain Smoker by Chance the Rapper. It fits all these critera and is a fantastic song. Previously, I&amp;rsquo;ve used Good Ass Intro (also by Chance). Additionally, The new albulm Retrohash by Asher Roth is filled with songs that fit these criterias.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;100&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90243763&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;h3&gt;2. The Rest of the Warmup&lt;/h3&gt;
+
+&lt;p&gt;The rest of the warmup section should be used to slowly ramp up to working sets. Each song should still be upbeat, but the intensity of each song should gradually increase. These songs generally encompass setting up equipment, saying hellos, and doing the warmup reps of your first major lift. This part should end by the time you start your working sets. Timewise, this part lasts around ten minutes for me, but this varies person to person.&lt;/p&gt;
+
+&lt;p&gt;The three songs I currently use are (in order)&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;100&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/118090242&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:0ErMK31Mr9j6tPA1F58rT9&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:0SyXvJ6uRArVWHXUyi3FKO&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;They go from ridiculous to more serious, putting my mind in the right place for the rest of my workout and setting up the next section.&lt;/p&gt;
+
+&lt;h1&gt;Part 2: The Meat&lt;/h1&gt;
+
+&lt;p&gt;The &amp;ldquo;Meat&amp;rdquo; is the majority of the workout. It&amp;rsquo;s the music I listen to when I do the heaviest, most difficult portions of my workout. I need this music to motivate me, keep me focused, and help me get that last rep out.&lt;/p&gt;
+
+&lt;h3&gt;1. The Getting Serious Song&lt;/h3&gt;
+
+&lt;p&gt;This is probably the most important song in the playlist. It&amp;rsquo;s responsible for getting my mental state ready to lift hundreds of pounds. This song should make you feel like you&amp;rsquo;re about to start a battle. Generally, the &amp;ldquo;getting serious&amp;rdquo; song should display raw emotion, full of anger and energy.&lt;/p&gt;
+
+&lt;p&gt;My &amp;ldquo;getting serious&amp;rdquo; song is currently XXX by Danny Brown. It fits the bill perfectly and I don&amp;rsquo;t see myself changing it anytime soon. It&amp;rsquo;s angry, emotional, and gets you pumped.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:7bK9xOZYM05LOh4bvk2Sl7&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;h3&gt;2. The &amp;ldquo;Lets Do This&amp;rdquo; Song&lt;/h3&gt;
+
+&lt;p&gt;This song directly follows the &amp;ldquo;getting serious&amp;rdquo; song and normally plays around the end of your first real set. It&amp;rsquo;s the final transistion from warmup to the real workout. In one word, it should sound &amp;ldquo;epic&amp;rdquo;. I currently use Crawl by Childish Gambino&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>New Year Goals 2 Month Update</title>
    <link href="http://klinskyc.github.io/posts/New-Year-Goals-2-Month-Update"/>
-   <updated>2014-03-14T00:00:00-06:00</updated>
+   <updated>2014-03-14T00:00:00-04:00</updated>
    <id>http://klinskyc.github.io/posts/New-Year-Goals-2-Month-Update</id>
    <content type="html">&lt;p&gt;It&amp;rsquo;s two months to the day that I posted my initial goals.
 Since then, I&amp;rsquo;ve updated some of my goals, failed a few and, I&amp;rsquo;m on track to accomplish more.&lt;/p&gt;
@@ -24,11 +222,11 @@ Since then, I&amp;rsquo;ve updated some of my goals, failed a few and, I&amp;rsq
 &lt;ul&gt;
 &lt;li&gt;&lt;h5&gt;Get Straight A&amp;rsquo;s (A Range)&lt;/h5&gt;
 
-&lt;p&gt;Second trimester grades are in. My grades increased as a whole but I still failed to get everything into the A range
+&lt;p&gt;Second trimester grades are in. My grades increased as a whole, but I still failed to get everything into the A range
 because one grade dipped.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;h5&gt;Get Outstanding SAT Scores (and only have to take them once)&lt;/h5&gt;
 
-&lt;p&gt;Got my scores back from the first time and I did well but math and writing were lower than normal so I&amp;rsquo;m going to
+&lt;p&gt;Got my scores back from the first time and I did well, but math and writing were lower than normal so I&amp;rsquo;m going to
 be retaking them on March 8th. This is the last time.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -38,7 +236,7 @@ be retaking them on March 8th. This is the last time.&lt;/p&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;h5&gt;Finish out the Wrestling season with a positive record&lt;/h5&gt;
 
-&lt;p&gt;Failed this one. I ended up going 13-16. I did place at both Ivies and States. I should have finished 3rd at Ivies but I blew
+&lt;p&gt;Failed this one. I ended up going 13-16. I did place at both Ivies and States. I should have finished 3rd at Ivies, but I blew
 a match I had in the bag.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;h5&gt;Be Able to do 15 Pullups&lt;/h5&gt;
 
@@ -69,7 +267,7 @@ Life of Henrietta Lacks. I need to pick up the pace but free time is limited.&lt
 &lt;p&gt;This was one I added after the blog post. I want to start playing guitar again and also learn how to make beats.
 This has been going fine but, once again, it&amp;rsquo;s not the first thing I want to do when I have free time.&lt;/p&gt;
 
-&lt;p&gt;As far as no 0 days go, I always accomplish something but I still feel like I&amp;rsquo;m wasting time that could be put towards
+&lt;p&gt;As far as no 0 days go, I always accomplish something, but I still feel like I&amp;rsquo;m wasting time that could be put towards
 accomplishing these goals. So far, this year has been going great.&lt;/p&gt;
 </content>
  </entry>
@@ -77,7 +275,7 @@ accomplishing these goals. So far, this year has been going great.&lt;/p&gt;
  <entry>
    <title>New Year Goals</title>
    <link href="http://klinskyc.github.io/posts/New-Year-Goals"/>
-   <updated>2014-01-04T00:00:00-07:00</updated>
+   <updated>2014-01-04T00:00:00-05:00</updated>
    <id>http://klinskyc.github.io/posts/New-Year-Goals</id>
    <content type="html">&lt;p&gt;It just became 2014 and I figured it would be a good time as any to lay out my goals for this year.
 Since I feel more accountable if I fail my goals publicly, I decided to post them here. Some of the main goals
@@ -143,7 +341,7 @@ the remaining books left on the list. Last year, I read 17 books off my list, th
  <entry>
    <title>Fantasy Football Week 1</title>
    <link href="http://klinskyc.github.io/posts/Fantasy-Football-Week-1"/>
-   <updated>2013-09-10T00:00:00-06:00</updated>
+   <updated>2013-09-10T00:00:00-04:00</updated>
    <id>http://klinskyc.github.io/posts/Fantasy-Football-Week-1</id>
    <content type="html">&lt;p&gt;This is a little different then my normal stuff but I enjoy fantasy football (and football in general) and I
 think it&amp;rsquo;s worth posting, if just for my own sake.&lt;/p&gt;
@@ -201,7 +399,7 @@ Jets are my favorite team but it was worth taking the opportunityt&lt;/p&gt;
  <entry>
    <title>I Have 13 Users And I Am Ecstatic</title>
    <link href="http://klinskyc.github.io/posts/I-Have-13-Users-And-I-Am-Ecstatic"/>
-   <updated>2013-05-27T00:00:00-06:00</updated>
+   <updated>2013-05-27T00:00:00-04:00</updated>
    <id>http://klinskyc.github.io/posts/I-Have-13-Users-And-I-Am-Ecstatic</id>
    <content type="html">&lt;p&gt;After spending the last few months working on and off on a large project (more on that over the summer), I was
 feeling burnt out from constantly getting stuck on large-scale bugs. In response to this, I decided to make
@@ -227,7 +425,7 @@ ome.google.com/webstore/detail/twitter2rss/obnmifkmfdnijcnmhacachchiikikchb&quot
  <entry>
    <title>An Interesting Attempt At Getting User Signups</title>
    <link href="http://klinskyc.github.io/posts/An-Interesting-Attempt-At-Getting-User-Signups"/>
-   <updated>2013-03-21T00:00:00-06:00</updated>
+   <updated>2013-03-21T00:00:00-04:00</updated>
    <id>http://klinskyc.github.io/posts/An-Interesting-Attempt-At-Getting-User-Signups</id>
    <content type="html">&lt;p&gt;I think almost anyone on the internet has seen this message&lt;/p&gt;
 
@@ -250,7 +448,7 @@ increase user signups.&lt;/p&gt;
  <entry>
    <title>How The Mighty Have Fallen</title>
    <link href="http://klinskyc.github.io/posts/How-The-Mighty-Have-Fallen"/>
-   <updated>2013-03-10T00:00:00-07:00</updated>
+   <updated>2013-03-10T00:00:00-05:00</updated>
    <id>http://klinskyc.github.io/posts/How-The-Mighty-Have-Fallen</id>
    <content type="html">&lt;p&gt;I recently happened to see this Time Magazine cover.
 &lt;img src=&quot;http://img.timeinc.net/time/magazine/archive/covers/2002/1101020415_400.jpg&quot; alt=&quot;Time Magazine Cover&quot;/&gt;&lt;/p&gt;
@@ -270,7 +468,7 @@ and then lost on the internet.&lt;/p&gt;
  <entry>
    <title>The Experiment</title>
    <link href="http://klinskyc.github.io/posts/The-Experiment"/>
-   <updated>2013-03-03T00:00:00-07:00</updated>
+   <updated>2013-03-03T00:00:00-05:00</updated>
    <id>http://klinskyc.github.io/posts/The-Experiment</id>
    <content type="html">&lt;h3&gt;The Problem&lt;/h3&gt;
 
@@ -300,7 +498,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>Apple's Future</title>
    <link href="http://klinskyc.github.io/posts/Apple%27s-Future"/>
-   <updated>2013-01-30T00:00:00-07:00</updated>
+   <updated>2013-01-30T00:00:00-05:00</updated>
    <id>http://klinskyc.github.io/posts/Apple's-Future</id>
    <content type="html">&lt;h3&gt;A Non-Expert&amp;rsquo;s Opinion on Apple&amp;rsquo;s Future&lt;/h3&gt;
 
@@ -319,7 +517,7 @@ past two months than I had read in the past year. Is this method revolutionary? 
  <entry>
    <title>What I Use</title>
    <link href="http://klinskyc.github.io/posts/What-I-Use"/>
-   <updated>2013-01-23T00:00:00-07:00</updated>
+   <updated>2013-01-23T00:00:00-05:00</updated>
    <id>http://klinskyc.github.io/posts/What-I-Use</id>
    <content type="html">&lt;p&gt;In this Inaugural Post I&amp;rsquo;ll take briefly about what I use on a daily basis.&lt;/p&gt;
 
